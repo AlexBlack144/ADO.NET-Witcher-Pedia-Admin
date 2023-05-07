@@ -1,0 +1,17 @@
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\WindowsFormsWitcherAdmin.exe.config
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\WindowsFormsWitcherAdmin.exe
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\WindowsFormsWitcherAdmin.pdb
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\EntityFramework.dll
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\EntityFramework.SqlServer.dll
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\EntityFramework.xml
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\bin\Debug\EntityFramework.SqlServer.xml
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.csproj.AssemblyReference.cache
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.csproj.SuggestedBindingRedirects.cache
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.Form1.resources
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.Properties.Resources.resources
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.View.Form2.resources
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.csproj.GenerateResource.cache
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.csproj.CoreCompileInputs.cache
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.csproj.CopyComplete
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.exe
+E:\Лёша\Шаг\4 курс\Exam\WindowsFormsWitcherAdmin\obj\Debug\WindowsFormsWitcherAdmin.pdb
